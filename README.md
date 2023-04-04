@@ -30,9 +30,9 @@ There are serval scopes of improvement here,
 * Include necessary package installation function for ready to use.
 
 ## Conclusion
-The program is free of use and can be used by installing the neccesary libraies, sympy,numpy.matplotlib,re,netwrokx. The project is open source,feel free to contribute to the project or give suggestions. You write me mail to this mail id 99jainam@gmail.com for conatct
+The program is free of use and can be used by installing the neccesary libraies, sympy,numpy,matplotlib,re,netwrokx. The project is open source,feel free to contribute to the project or give suggestions. You can write me email to this mail id 99jainam@gmail.com for conatct
 
-Currently the program is still in its devloping state and cannot be used for professional  usage, and to make it used in professional pratice furthe work is to be done, I open to all sugesstions and recomedation for this project and hope that it is helpful to you.
+Currently the program is still in its devloping state and cannot be used for professional  usage, and to make it used in professional pratice I need your help to conribute in this project, I am open to all sugesstions and recomedation for this project and hope that it is helpful to you.
 
 The project is under MIT License.
 
